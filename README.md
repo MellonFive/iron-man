@@ -1,6 +1,6 @@
-# Rosto do Homem de ferro
+<h1 align="center">Rosto do Homem de ferro</h1>
 
-## Obrigado pelos conhecimentos Natália Dev: https://www.youtube.com/watch?v=ouvmJvNlMDg
+<h2 align="center">Obrigado pelos conhecimentos Natália Dev: https://www.youtube.com/watch?v=ouvmJvNlMDg</h2>
 
 ### Tecnologias usadas
 
