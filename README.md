@@ -6,3 +6,5 @@
 
 - HTML
 - CSS(Me concentrando nas pseudo-classes before e after)
+
+![README](img/README.png)
